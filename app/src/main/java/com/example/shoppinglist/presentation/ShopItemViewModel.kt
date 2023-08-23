@@ -42,7 +42,8 @@ class ShopItemViewModel : ViewModel() {
             val shopItem = ShopItem(name, count, true)
 
             addShopItemUseCase.addShopItem(shopItem)
-            finishWork()        }
+            finishWork()
+        }
     }
 
     fun getShopItem(id: Int) {

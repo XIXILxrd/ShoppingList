@@ -6,4 +6,5 @@
     <string name="name_textInput_hint">Name:</string>
     <string name="error_input_count">Invalid count</string>
     <string name="error_input_name">Invalid name</string>
+    <string name="success_toast">Success</string>
 </resources>
